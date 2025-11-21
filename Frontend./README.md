@@ -52,15 +52,16 @@
 ---
 
 ## Folder Structure (Front-End Only)
-spendwise/
-│ index.html
-│ about.html
-│ how-it-works.html
-│ dashboard.html
-│ login.html
-│ register.html
-│ add-transaction.html
-│ goals.html
+
+Frontend./
+├── index.html
+├── about.html
+├── how-it-works.html
+├── dashboard.html
+├── login.html
+├── register.html
+├── add-transaction.html
+├── goals.html
 ├── css/
 │ ├── style.css
 │ ├── dashboard.css
@@ -88,8 +89,6 @@ spendwise/
 ├── lib/
 │ └── utils.js
 └── README.md
-
-
 
 ---
 
@@ -134,4 +133,5 @@ spendwise/
 
 ## Conclusion
 This front-end implementation of Savr is a **fully modular, multi-page web application** designed for **university students**. It provides a **professional, collaborative foundation** for future full-stack development, showcasing clean HTML structure, responsive design, and scalable JavaScript modules.
+
 
